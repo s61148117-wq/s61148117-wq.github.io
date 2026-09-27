@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://s61148117-wq.github.io/smicrosystems.github.io/sitemap.xml
+Sitemap: https://s61148117-wq.github.io/sitemap.xml
